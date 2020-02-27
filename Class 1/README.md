@@ -1,5 +1,3 @@
-## Class for Week 1 of Python
-Here is code notebook for class 1. You can practice it.
 ## Assignment
 Your first assignment is to write code for formatting string.
 
